@@ -3,4 +3,3 @@ Pets -
 	Dogs
 	Cows
 	Buffalo
-	Mobile
