@@ -3,3 +3,4 @@ Pets -
 	Dogs
 	Cows
 	Buffalo
+	Parrot
